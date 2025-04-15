@@ -65,3 +65,4 @@ C:\Users\palan\Desktop\Matiz\EDU\Cloud & DevOps\Azure CLOUD\AZ 204 - Azure Devel
 C:\Users\palan\Desktop\Matiz\EDU\Cloud & DevOps\Azure CLOUD\AZ 204 - Azure Development Associate\SQL DB -  Web App\WebApp\learningapp\obj\Release\net8.0\learningapp.pdb
 C:\Users\palan\Desktop\Matiz\EDU\Cloud & DevOps\Azure CLOUD\AZ 204 - Azure Development Associate\SQL DB -  Web App\WebApp\learningapp\obj\Release\net8.0\learningapp.genruntimeconfig.cache
 C:\Users\palan\Desktop\Matiz\EDU\Cloud & DevOps\Azure CLOUD\AZ 204 - Azure Development Associate\SQL DB -  Web App\WebApp\learningapp\obj\Release\net8.0\ref\learningapp.dll
+C:\Users\palan\Desktop\Matiz\EDU\Cloud & DevOps\Azure CLOUD\AZ 204 - Azure Development Associate\SQL DB -  Web App\WebApp\learningapp\obj\Release\net8.0\learningapp.sourcelink.json
